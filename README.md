@@ -13,10 +13,12 @@ An AI-powered architectural assistant designed to help architects by providing b
 
 **Technologies**
 - Python
-- Machine Learning
 - Computer Vision
-- Flask
-- PostgreSQL
+- ONNX
+- NoSQL
+- MobileCLIP
+- Android Studio
+- OpenCV
 
 ---
 
@@ -25,9 +27,12 @@ An intelligent material specification detector that uses computer vision to iden
 
 **Technologies**
 - Python
-- TensorFlow / Keras
-- OpenCV
-- Deep Learning
+- Supabase
+- Vercel
+- TypeScript
+- Next.JS
+- PostgreSQL
+- Tailwind CSS
 
 ---
 
@@ -38,7 +43,6 @@ A prototype e-commerce website developed for a local clothing brand. The project
 - HTML
 - CSS
 - JavaScript
-- PHP
 - MySQL
 
 ---
@@ -81,6 +85,7 @@ A prototype e-commerce website developed for a local clothing brand. The project
 - Visual Studio
 - DaVinci Resolve
 - Android Studio
+- Codex
 
 
 
