@@ -23,7 +23,7 @@ An AI-powered architectural assistant designed to help users such as home owners
 ---
 
 ### 🔹 SELENA
-An intelligent material specification detector that uses computer vision to identify construction materials from images, assisting architects during the design process.
+A personal Webapp Financial Assistant powered by Deepseek API, Using Vercel and Supabaase
 
 **Technologies**
 - Python
