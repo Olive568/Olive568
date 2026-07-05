@@ -9,7 +9,7 @@ I'm passionate about building practical AI applications, computer vision systems
 ## 🚀 Featured Projects
 
 ### 🔹 SPECURA
-An AI-powered architectural assistant designed to help architects by providing building dimensions based on the Philippine National Building Code (PNBC) while integrating intelligent construction assistance.
+An AI-powered architectural assistant designed to help users such as home owners and architects by providing building material classification and detection of defects using Artificial Intelligence.
 
 **Technologies**
 - Python
