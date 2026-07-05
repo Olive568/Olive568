@@ -15,7 +15,7 @@ An AI-powered architectural assistant designed to help architects by providing b
 - Python
 - Computer Vision
 - ONNX
-- NoSQL
+- SQLite
 - MobileCLIP
 - Android Studio
 - OpenCV
