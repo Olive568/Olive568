@@ -29,7 +29,7 @@ A responsive, modern UI/UX prototype web application developed for a local cloth
 
 ## 🛠️ Technical Toolbox
 
-| Category | Technologies |
+
 | **Languages** | Python, JavaScript, TypeScript, Kotlin, C#, SQL |
 | **AI & Computer Vision** | TensorFlow, Keras, OpenCV, MobileCLIP, ONNX Runtime, Scikit-learn |
 | **Web & Mobile** | Next.js, React, Android Studio, Tailwind CSS, HTML5/CSS3, Vercel |
