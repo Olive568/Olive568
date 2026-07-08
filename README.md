@@ -31,9 +31,13 @@ A responsive, modern UI/UX prototype web application developed for a local cloth
 
 
 | **Languages** | Python, JavaScript, TypeScript, Kotlin, C#, SQL |
+
 | **AI & Computer Vision** | TensorFlow, Keras, OpenCV, MobileCLIP, ONNX Runtime, Scikit-learn |
+
 | **Web & Mobile** | Next.js, React, Android Studio, Tailwind CSS, HTML5/CSS3, Vercel |
+
 | **Databases & Cloud** | PostgreSQL, Supabase, MySQL, MS SQL Server, Azure AI |
+
 | **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio, Codex |
 
 ---
