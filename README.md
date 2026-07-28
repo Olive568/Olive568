@@ -17,7 +17,7 @@ An offline-first Edge-AI Android application designed for building material clas
 
 ### 💸 [SELENA](https://github.com/Olive568/Selena) — AI-Powered Personal Finance Platform
 A mobile-first personal financial tracker and analytics dashboard featuring an integrated AI assistant.
-* Powered by the **DeepSeek API** to provide custom budget insights and automated financial reporting.
+* Powered by the **Groq API** to provide custom budget insights and automated financial reporting.
 * Leverages relational data filtering and secure authentication via Supabase.
 * **Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vercel
 
